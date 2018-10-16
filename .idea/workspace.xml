@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="124157c8-3304-4c52-bc85-a99a8e015ea7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2044201574">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rest-api/model/RespostaClass.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rest-api/model/RespostaClass.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/rest-api/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/rest-api/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/mysql/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/rest-api/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="26" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="portifólio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portifólio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portifólio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portifólio" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portifólio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portifólio" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-api" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="124157c8-3304-4c52-bc85-a99a8e015ea7" name="Default Changelist" comment="" />
+      <created>1537143987553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537143987553</updated>
+      <workItem from="1537143997304" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="173000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962063" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rest-api/model/RespostaClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
