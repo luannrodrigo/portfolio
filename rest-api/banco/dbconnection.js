@@ -4,7 +4,7 @@ const mysql = require('mysql');
 const connection = mysql.createPool({
     host:       'localhost',
     user:       'root',
-    password:   'l123',
+    password:   '1234',
     database:   'db_portifolio'
 });
 

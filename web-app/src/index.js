@@ -1,2 +1,3 @@
-import base from './css/base.css';
-import scss from './scss/base.scss'
+import 'bootstrap';
+import style from './css/style.css';
+import scss from './scss/base.scss';
