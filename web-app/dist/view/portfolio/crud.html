@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <title>Rocket</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <noscript>
+    </noscript>
+    <link rel="stylesheet" href="../../bundle/css.css" />
+</head>
+
+<body class="is-preload">
+    <div class="container ">
+        <h1 class="text-center">Listagem de Projetos</h1>
+        <!-- alertas de ações do formulario -->
+        <div id="msg"></div>
+        <!-- Listagem dos portfolios -->
+        <div id="listagem">
+            <!-- botão para abrir o formularios de cadastro -->
+            <button id="btn-exibir-form" type="button" class="btn btn-primary">Cadastrar</button>
+            <br>
+            <br>
+
+            <div id="portfolios"></div>
+        </div>
+
+        <!-- Formulario de cadastro -->
+        <div id="formulario">
+            <div class="row">
+                <div class="col-sm">
+                    <h1 class="text-center">Cadastro Portifolios</h1>
+
+                    <form method="POST" id="form">
+                        <div class="form-group">
+                            <label for="descricao">Código</label>
+                            <input type="text" class="form-control" id="id" name="id" disabled>
+                        </div>
+                        <div class="form-group">
+                            <label for="descricao">Nome do Projeto</label>
+                            <input type="text" class="form-control" id="nome" name="nome" placeholder="Nome do Projeto">
+                        </div>
+                        <div class="form-group">
+                            <label for="descricao">Descrição</label>
+                            <input type="text" class="form-control" id="descricao" name="descricao" placeholder="Descrição">
+                        </div>
+                        <div class="form-group">
+                            <label for="detalhes">Detalhes</label>
+                            <textarea class="form-control" id="detalhes" name="detalhes" placeholder="Detalhes"></textarea>
+                        </div>
+                        <div>
+                            <button type="submit" id="btn-cadastrar-portfolio" class="btn btn-primary mr-sm-4">Salvar</button>
+                            <button type="submit" id="btn-cancelar" class="btn btn-secondary ">Cancelar</button>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- Scripts -->
+    <script src="../../bundle/babelPolyfill.bundle.js"></script>
+    <script src="../../bundle/index.bundle.js"></script>
+    <script src="../../bundle/portfolioController.bundle.js"></script>
+
+</body>
+
+</html>

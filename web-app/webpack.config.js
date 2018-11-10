@@ -9,7 +9,8 @@ module.exports = {
     entry: {
         babelPolyfill: 'babel-polyfill', 
         index: './src/index.js', 
-        indexController: './src/controllers/IndexController.js'
+        indexController: './src/controllers/IndexController.js',
+        portfolioController: './src/controllers/PortfolioController.js'
     },
     // Ponto de sainda para a pasta bundle
     output: {
